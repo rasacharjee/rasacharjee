@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rajarshi Acharjee
+- 👋 Hi, I’m Rajarshi Acharjee, Data Scientist @American Express
 - 👀 I’m interested in Mobile Dev and ML, Deep learning
 - 🌱 I’m currently learning agile software development practices
 - 💞️ I’m looking to collaborate on Software Development
